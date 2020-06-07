@@ -26,10 +26,10 @@ You will get special URI like:
 
 These URIs are identified by shadowsocks clients and besides very convenient to store and share.
 
-## Clients:
+## Clients (MacOS, iOS, Android)
 * [shadowsocks clients](https://shadowsocks.org/en/download/clients.html)
 
-Supported Linux distributions:
+## Supported Linux distributions:
 
 * CentOS 7 and RHEL 7
 * Debian 8
