@@ -1,7 +1,0 @@
----
-layout: null
----
-# http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog
-User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
-Host: {{ site.url }}
