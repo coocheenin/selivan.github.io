@@ -1,6 +1,8 @@
 #!/bin/bash
-# Homepage: selivan.github.io/socks
-# Author: Pavel Selivanov
+# create shadowsocks server
+# see details at https://github.com/coocheenin/shadowsocks-libev-bash
+# It's a fork of Pavel Silivanov script, but with Debian compatibility
+# Author: Pavel Selivanov (Ubuntu)
 # Contributors: Octavian Dodita(CentOS 7, RHEL 7), Konstantin Kuchinin(Debian 8)
 
 function get_external_address() {
