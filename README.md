@@ -8,7 +8,7 @@ This script is forked from [Pavel Selivanov script](https://github.com/coocheeni
 
 ### Install without setup (running in a single line)
 
-`curl https://raw.githubusercontent.com/coocheenin/shadowsocks-libev-bash/debian-8/shadowsocks.sh | sudo bash`
+`curl https://raw.githubusercontent.com/coocheenin/shadowsocks-libev-bash/master/shadowsocks.sh | sudo bash`
 
 ### Install & Setup (only two lines in terminal)
 
@@ -16,7 +16,7 @@ You can also set the port and password manually before installing:
 
 ```bash
 export PORT=8080; export PASSWORD=mypass
-curl https://raw.githubusercontent.com/coocheenin/shadowsocks-libev-bash/debian-8/shadowsocks.sh | sudo --preserve-env bash
+curl https://raw.githubusercontent.com/coocheenin/shadowsocks-libev-bash/master/shadowsocks.sh | sudo --preserve-env bash
 ```
 
 It's enough for working, but you can make a [fine tuning](https://shadowsocks.org/en/config/advanced.html).
